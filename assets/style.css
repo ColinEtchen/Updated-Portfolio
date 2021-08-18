@@ -48,6 +48,7 @@
     font-weight: 500;
     margin-left: 25px; 
     transition: color 0.3s ease;
+    text-decoration: none;
 }
 
 .navbar .menu li a:hover{
